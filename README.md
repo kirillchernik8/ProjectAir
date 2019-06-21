@@ -10,10 +10,6 @@
 1. Express
 1. Sqlite
 
-## API:
-
-Google Maps API (https://developers.google.com/maps/documentation/)
-
 ## API helpers:
 
 npm: google-map-react (https://www.npmjs.com/package/google-map-react)
